@@ -34,7 +34,7 @@
 
 <br>
 <p align="center">
-  <img src="banner.png" alt="Lambda-RLM: Typed Recursive Reasoning for Long-Context LLMs" width="1000">
+  <img src="banner.png" alt="Lambda-RLM: Typed Recursive Reasoning for Long-Context LLMs" width="900">
 </p>
 
 ## Why use λ-RLMs?
