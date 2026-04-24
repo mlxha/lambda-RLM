@@ -1,23 +1,41 @@
 <h1 align="center">λ-RLM — The Y-Combinator for LLMs</h1>
+
 <p align="center">
-  <a href="https://lambda-calculus-llm.github.io/rlms/"><b>🌐 Website</b></a> </p>
-<p align="center">
-  <a href="https://arxiv.org/abs/2603.20105">
+  <a href="https://arxiv.org/abs/2603.20105" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/arXiv-2603.20105-b31b1b.svg" alt="arXiv">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT">
   </a>
-  <a href="#quickstart">
+  <a href="#quick-start">
     <img src="https://img.shields.io/badge/Python-3.11%2B-blue.svg" alt="Python 3.11+">
   </a>
-  <a href="https://github.com/lambda-calculus-LLM/lambda-RLM/stargazers">
+  <a href="https://github.com/lambda-calculus-LLM/lambda-RLM/stargazers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/stars/lambda-calculus-LLM/lambda-RLM?style=social" alt="GitHub stars">
   </a>
 </p>
 
 <p align="center">
   <b>Typed recursive long-context reasoning for LLMs.</b>
+</p>
+
+<p align="center">
+  λ-RLM replaces free-form recursive code generation with a typed functional runtime grounded in λ-calculus.
+</p>
+
+<p align="center">
+  <a href="https://lambda-calculus-llm.github.io/rlms/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visit%20the%20website-00BFFF?style=for-the-badge" alt="Visit the website">
+  </a>
+  <a href="https://arxiv.org/abs/2603.20105" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Read%20the%20paper-b31b1b?style=for-the-badge" alt="Read the paper">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="banner.png" alt="Lambda-RLM: Typed Recursive Reasoning for Long-Context LLMs" width="900">
 </p>
 
 <p align="center">
