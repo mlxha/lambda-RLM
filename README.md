@@ -38,24 +38,6 @@
   <img src="banner.png" alt="Lambda-RLM: Typed Recursive Reasoning for Long-Context LLMs" width="900">
 </p>
 
-<p align="center">
-  λ-RLM replaces free-form recursive code generation with a typed functional runtime grounded in λ-calculus.
-</p>
-
-<p align="center">
-  <a href="https://github.com/lambda-calculus-LLM/lambda-RLM">
-    <img src="https://img.shields.io/badge/Star%20this%20repo-yellow?style=for-the-badge" alt="Star this repo">
-  </a>
-  <a href="https://arxiv.org/abs/2603.20105">
-    <img src="https://img.shields.io/badge/Read%20the%20paper-b31b1b?style=for-the-badge" alt="Read the paper">
-  </a>
-</p>
-
-<br>
-<p align="center">
-  <img src="banner.png" alt="Lambda-RLM: Typed Recursive Reasoning for Long-Context LLMs" width="900">
-</p>
-
 ## Why use λ-RLMs?
 
 λ-RLM is a framework for long-context reasoning that replaces **free-form recursive code generation** with a **typed functional runtime** grounded in **λ-calculus**.  
